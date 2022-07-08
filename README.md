@@ -1,4 +1,4 @@
-# Hello, tractioners! 👋
+# Hello, tractioners! 🥷
 
 I'm _Lucas Andrade_. I started in IT industry 5 years ago working with security solutions in coutryside of SP, Brazil. For the last 3 years, I've focused on the DevOps culture, security and cloud computing.
 
