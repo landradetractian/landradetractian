@@ -1,6 +1,8 @@
 # Hello, tractioners! 👋
 
-I am _Lucas Andrade_. I started in IT industry 5 years ago working with security solutions in coutryside of SP, Brazil. For the last 3 years, I've focused on the DevOps culture, security and cloud computing.
+I'm _Lucas Andrade_. I started in IT industry 5 years ago working with security solutions in coutryside of SP, Brazil. For the last 3 years, I've focused on the DevOps culture, security and cloud computing.
+
+I joined TRACTIAN in January/2022, just met this amazing company in [Deschamps Newsletter](https://filipedeschamps.com.br/newsletter) and applied for DevOps Engineer after do a research about TRACTIAN and know more about its culture and growth!
 
 ### What do I do here?
 
